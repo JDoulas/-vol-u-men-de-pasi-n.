@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Fútbol Local</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Θα προσθέσουμε αυτό αργότερα -->
+</head>
+<body>
+    <header>
+        <h1>El Fútbol Local</h1>
+        <nav>
+            <ul>
+                <li><a href="#results">Αποτελέσματα</a></li>
+                <li><a href="#standings">Βαθμολογίες</a></li>
+                <li><a href="#upcoming">Επερχόμενα Παιχνίδια</a></li>
+                <li><a href="#contact">Επικοινωνία</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="results">
+            <h2>Αποτελέσματα</h2>
+            <p>Πληροφορίες για τα τελευταία παιχνίδια.</p>
+        </section>
+        <section id="standings">
+            <h2>Βαθμολογίες</h2>
+            <p>Τρέχουσες βαθμολογίες των ομάδων.</p>
+        </section>
+        <section id="upcoming">
+            <h2>Επερχόμενα Παιχνίδια</h2>
+            <p>Πληροφορίες για τα επόμενα παιχνίδια.</p>
+        </section>
+        <section id="contact">
+            <h2>Επικοινωνία</h2>
+            <p>Πληροφορίες για την επικοινωνία μαζί μας.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 El Fútbol Local. Όλα τα δικαιώματα διατηρούνται.</p>
+    </footer>
+</body>
+</html>
